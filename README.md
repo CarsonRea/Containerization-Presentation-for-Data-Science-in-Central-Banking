@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ## Description
 The repository contains the write-up and presentation which outline potential usage of containerization for central banking. This work was done for the IFC and Bank of Italy Workshop on _Data Science in Central Banking_, presented at the Bank for International Settlements on February 16th, 2022.
 
-The data repository for the project can be found [here](https://github.com/atyho/IFC-Data-Science-in-Central-Banking), and includes necessary instructoins for replication of the use case.
+The data repository for the project can be found [here](https://github.com/atyho/IFC-Data-Science-in-Central-Banking), and includes necessary instructions for replication of the use case.
 
 A video presentation is available for download [here](https://kphuynh.pages.iu.edu/rsch/vol.html).
 
